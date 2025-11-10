@@ -1,8 +1,5 @@
 # AnyDesk — удалённый доступ и управление компьютерами и устройствами (RU)
 
-<div align="center">
-  <img src="https://anydesk.com/_static/img/devices/anydesk-device-android-c852f4.jpg" width="820" alt="AnyDesk Remote Access">
-</div>
 
 <p align="center">
   <a href="https://soft-anydesk.github.io/.github">
